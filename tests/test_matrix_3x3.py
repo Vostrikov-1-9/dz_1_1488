@@ -1,4 +1,4 @@
-from app.matrix_3x3 import Matrix3x3
+from app.matrix3x3 import Matrix3x3
 import pytest
 
 

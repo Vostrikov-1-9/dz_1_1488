@@ -1,4 +1,4 @@
-from app.matrix_default import Matrix
+from app.matrix import Matrix
 import pytest
 
 
